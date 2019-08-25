@@ -1,2 +1,2 @@
 # FoosBall
-Application for keeping track of Hayyaan's loose streaks.
+Application for keeping track of Hayyaan's lose streaks.
